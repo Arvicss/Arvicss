@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Arvyx Ramos! 👋
 
-<!--
-**Arvicss/Arvicss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate coder with a knack for solving complex problems and managing databases. My journey in the tech world began when I enrolled in the BS Information Technology program, and since then, I've been on a continuous learning adventure.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **BS Computer Science**
+  <a href="https://www.neu.edu.ph" target="_blank">New Era University</a>
+  (2022-Present)
+  
+
+## Certifications
+
+- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+  [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B7F2B8C61D30225FB5D2126371C5F241BF06D676AA9BDFEE619DBC5FC9BDB86)
+
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+  [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D7A5385A957C5ABADB0A43D22BEE2AA4634833769D359D696AEAA8E18695CA1C)
+
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+  [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=16CA838CFDC4532ACEFE5294FB9104B0CB3C7FA8BE6F4B8A4E99FCBC07CCA3BD)
+
+- **SQL and Relational Databases 101**
+[Certification Link](https://courses.cognitiveclass.ai/certificates/ab9c6aafbd2644aa85cc0ad149b759f7)
+
+## Skill Sets
+
+- **Programming:** Java, Javascript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, IntelliJ, Visual Studio Code
+
+## Reach Me
+
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arvyx-ramos-0157a7253/)
+- **Email:** ramosarvyx@gmail.com
+
+Feel free to connect with me for discussions, collaborations, or just to say hi! 😊
