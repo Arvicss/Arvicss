@@ -1,6 +1,6 @@
 # Hi there, I'm Arvyx Ramos! 👋
 
-I'm a passionate coder with a knack for solving complex problems and managing databases. My journey in the tech world began when I enrolled in the BS Information Technology program, and since then, I've been on a continuous learning adventure.
+I'm a passionate coder with a knack for solving complex problems and managing databases. My journey in the tech world began when I enrolled in the BS Computer Science program, and since then, I've been on a continuous learning adventure.
 
 ## Education
 
