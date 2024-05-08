@@ -1,37 +1,65 @@
-# Hi there, I'm Arvyx Ramos! 👋
+# Lj's Burger
+Lj’s Burger, a Request Order System, a user-friendly web application designed to streamline the process of taking and managing orders, developed as part of the Design and Analysis of Algorithm course. The algorithm used includes Binary Heap and Merge Sort. This documentation provides an overview of the menu management, user interface, order management, and reporting.
 
-I'm a passionate coder with a knack for solving complex problems and managing databases. My journey in the tech world began when I enrolled in the BS Computer Science program, and since then, I've been on a continuous learning adventure.
+## Features
 
-## Education
+### Menu Management
+In these features, users can effortlessly add, edit, and remove burger items from the cart with just a few clicks. The intuitive menu management system allows for quick updates to reflect changes in ingredients, pricing, or discount, ensuring that customers always have access to the latest offerings at Lj’s Burger.
 
-- **BS Computer Science**
-  <a href="https://www.neu.edu.ph" target="_blank">New Era University</a>
-  (2022-Present)
-  
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+      <div style="margin-right: 30px;">
+         <img src="https://github.com/LuisBulatao/SSS/blob/856b2a28f7480e0e03ff049aa49aa8280e16c5fb/1.png" width="70%"></img> <img src="https://github.com/LuisBulatao/SSS/blob/a210f46299a9a93d7abd79e34f39ac0fa6e7d230/22222222.png" width="70%"></img> 
+      </div>
+   </div>
+</div>
 
-## Certifications
+### User Interface
+The user interface of Lj’s Burger is meticulously designed with simplicity and efficiency in mind. It effortlessly navigates the system, accesses key features, and manages history with just a few clicks. The intuitive and user-friendly interface minimizes training time and ensures smooth operation even during the busiest periods of service. With clear visual cues and a logical layout, the interface enhances staff productivity and promotes seamless interaction with the system, ultimately delivering a superior dining experience for customers.
 
-- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
-  [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7B7F2B8C61D30225FB5D2126371C5F241BF06D676AA9BDFEE619DBC5FC9BDB86)
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+      <div style="margin-right: 20px;">
+         <img src="" width="70%"></img>
+      </div>
+   </div>
+</div>
 
-- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
-  [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D7A5385A957C5ABADB0A43D22BEE2AA4634833769D359D696AEAA8E18695CA1C)
+### Order Management
+The order management feature of Lj’s Burger enables seamless tracking of orders from placement to completed. Orders are systematically organized by number for efficient prioritization, and customers can make quick modifications as needed. Real-time updates ensure customers are promptly informed of any changes, facilitating a smooth dining experience.
 
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-  [Certification Link](https://catalog-education.oracle.com/pls/certview/sharebadge?id=16CA838CFDC4532ACEFE5294FB9104B0CB3C7FA8BE6F4B8A4E99FCBC07CCA3BD)
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+      <div style="margin-right: 20px;">
+         <img src="https://github.com/LuisBulatao/SSS/blob/e29aabf65f7e9adae96c9f526a6d76956f16d087/Order%20Taking.png" width="70%"></img>
+      </div>
+   </div>
+</div>
 
-- **SQL and Relational Databases 101**
-[Certification Link](https://courses.cognitiveclass.ai/certificates/ab9c6aafbd2644aa85cc0ad149b759f7)
 
-## Skill Sets
+### Reporting
+The reporting feature of Lj’s Burger offers valuable insights into the restaurant's performance. It can generate comprehensive reports covering daily, weekly, monthly, and yearly sales, as well as inventory management and order history. These reports serve as a crucial tool for informing business decisions, pinpointing areas for improvement, and optimizing operations to maximize efficiency and profitability.
 
-- **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, IntelliJ, Visual Studio Code
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+      <div style="margin-right: 20px;">
+         <img src="https://github.com/LuisBulatao/SSS/blob/e29aabf65f7e9adae96c9f526a6d76956f16d087/Inventory.png" width="70%"></img> <img src="https://github.com/LuisBulatao/SSS/blob/e29aabf65f7e9adae96c9f526a6d76956f16d087/SalesReport.png" width="70%"></img>
+      </div>
+   </div>
+</div>
 
-## Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arvyx-ramos-0157a7253/)
-- **Email:** ramosarvyx@gmail.com
+### Database Diagram
+![image](https://github.com/LuisBulatao/SSS/assets/115807743/0a7e06e5-2da2-4b81-977c-829f94c01089)
 
-Feel free to connect with me for discussions, collaborations, or just to say hi! 😊
+The diagram shows the different parts needed to run an online store or system for managing inventory. It includes sections for tracking user accounts and login sessions, processing customer orders and payments, and keeping records of products, ingredients, and stock levels. The various boxes represent the different types of information that need to be stored, like user details, order contents, product descriptions, and available inventory. The connections between the boxes show how the different pieces of information relate to each other within the system.
+
+# Algorithm
+### Merge Sort
+### Priority Queue
+
+# Project Members:
+- Gonzales, John Victor H.
+- Ramos, Arvyx M.
+- Bulatao, Luis Joshua D. 
+
